@@ -1,4 +1,4 @@
-# SimpleGenArt
+# simple-gen-art
 
 An early baseline version of a simple [generative art project](https://goodnightthief.com/) I worked on. 
 <br><br>
