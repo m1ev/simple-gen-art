@@ -14,6 +14,7 @@ The program outputs a high-resolution image in .png format with random, closely 
 <h3>Usage</h2>
 
 <h3>From the command line</h3>
+
 `python simple_gen_art.py`
 
 <h3>Output examples</h3>
